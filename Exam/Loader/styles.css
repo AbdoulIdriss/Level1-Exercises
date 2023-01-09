@@ -12,8 +12,10 @@ h1{
 }
 
 .loader {
-    border: 16px solid teal; 
-    border-top: 16px solid orange;
+    border-bottom: 10px solid teal;
+    border-left: 10px solid teal;
+    border-top: 10px solid orange;
+    border-right: 10px solid orange;
     border-radius: 50%;
     width: 120px;
     height: 120px;
