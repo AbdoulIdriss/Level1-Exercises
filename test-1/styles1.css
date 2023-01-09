@@ -7,20 +7,27 @@
     background-size: cover;
 }*/
 /*content details*/
-p{
+/*p{
     display: block;
-}
-/*#all-together {
-   display: flex;
 }*/
-form
+#all-together {
+   display: inline-flex;
+}
+/*form
 {
     border: none;
     border-bottom: 1px;
-}
+}*/
 section#design-form{
     
 }
-
-
+img{
+    width: 60%      ;
+    height: auto;
+}
+p#create-account {
+    background-color: black;
+    color: white;
+    display: inline;
+}
 
